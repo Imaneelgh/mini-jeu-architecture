@@ -1,6 +1,7 @@
 # mini-jeu-architecture
 Mini-jeu éducatif - Architecture des ordinateurs (Tronc Commun Informatique)
 🖥️ Mini-Jeu Éducatif : Architecture des Ordinateurs
+
 🎓 **Niveau** : Tronc Commun Informatique  
 📅 **Date** : Mai 2026
 
