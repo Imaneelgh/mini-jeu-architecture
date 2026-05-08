@@ -1,11 +1,10 @@
 # mini-jeu-architecture
-<img width="1850" height="964" alt="Screenshot from 2026-05-08 22-22-20" src="https://github.com/user-attachments/assets/5cc42b20-e9dc-4f81-a4e1-c1c68b256915" />
-
 Mini-jeu éducatif - Architecture des ordinateurs (Tronc Commun Informatique)
 🖥️ Mini-Jeu Éducatif : Architecture des Ordinateurs
-
 🎓 **Niveau** : Tronc Commun Informatique  
 📅 **Date** : Mai 2026
+
+<img width="1850" height="964" alt="Screenshot from 2026-05-08 22-22-20" src="https://github.com/user-attachments/assets/5cc42b20-e9dc-4f81-a4e1-c1c68b256915" />
 
 ## 🎮 Fonctionnalités
 - **Niveau 1** : Placement des composants sur une carte mère (Drag & Drop)
